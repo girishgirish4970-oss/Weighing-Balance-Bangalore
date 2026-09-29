@@ -8,7 +8,6 @@ import { fileURLToPath } from "url";
 // Example:
 // const NEW_STRING = "postgresql://postgres.xxx:password@aws-0-ap-south-1.pooler.supabase.com:6543/postgres?pgbouncer=true";
 // ====================================================================================
-const NEW_STRING = "new string";
 // ====================================================================================
 
 const __filename = fileURLToPath(import.meta.url);
