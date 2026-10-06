@@ -346,27 +346,48 @@ ${formData.message}
                     </div>
 
 
-                    {/* PHONE */}
+                    {/* PRIMARY PHONE */}
+<div className="contact-info-item">
 
-                    <div className="contact-info-item">
+    <div className="contact-info-icon">
+        ☎
+    </div>
 
-                        <div className="contact-info-icon">
-                            ☎
-                        </div>
+    <div>
+        <h4>
+            Primary Phone
+        </h4>
 
-                        <div>
+        <p>
+            <a href="tel:+916361835228">
+                +91 63618 35228
+            </a>
+        </p>
+    </div>
 
-                            <h4>
-                                Phone
-                            </h4>
+</div>
 
-                            <p>
-                                +91 9590451006
-                            </p>
 
-                        </div>
+{/* SECONDARY PHONE */}
+<div className="contact-info-item">
 
-                    </div>
+    <div className="contact-info-icon">
+        ☎
+    </div>
+
+    <div>
+        <h4>
+            Phone
+        </h4>
+
+        <p>
+            <a href="tel:+919590451006">
+                +91 9590451006
+            </a>
+        </p>
+    </div>
+
+</div>
 
 
                     {/* EMAIL */}
