@@ -383,8 +383,8 @@ ${formData.message}
                                 Email
                             </h4>
 
-                            <p>
-                                weighingbalanceblr@gmail.com
+                            <p> 
+                 weighingbalancebangalore@gmail.com
                             </p>
 
                         </div>
@@ -436,7 +436,7 @@ ${formData.message}
                             </h4>
 
                             <p>
-                                www.weighingbalanceblr.com
+                                www.weighingbalanceblr.in
                             </p>
 
                         </div>
